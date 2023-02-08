@@ -6,7 +6,7 @@ public class echoMsg  {
       if (value != null) {
           System.out.format("Greetings %s!\n",value);
       } else {
-          System.out.println("Greetings- Cmon IN!");
+          System.out.println("Greetings- hurrah!");
       }
 
       if (args.length > 0) {
