@@ -8,4 +8,5 @@ jar {
                 'Main-Class': 'echoMsg'
         )
     }
+    
 }
